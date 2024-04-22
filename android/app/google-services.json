@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624106461940",
+    "project_id": "exam-oek3v0",
+    "storage_bucket": "exam-oek3v0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624106461940:android:f9a4ed9647390e9a0b9ca1",
+        "android_client_info": {
+          "package_name": "com.mycompany.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHtDbe-IuLm9SBVmRoWD4y_hpBaiklY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
